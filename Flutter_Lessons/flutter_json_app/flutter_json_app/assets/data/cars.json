@@ -1,0 +1,36 @@
+[
+    {
+        "car_name" : "Mercedes",
+        "country" : "Germany",
+        "establishment_year": 1920,
+        "model" : [
+           {
+            "model_name" : "A Serial", 
+            "price" : 15000,
+            "gasoline" : true
+           },
+           {
+            "model_name" : "C Serial", 
+            "price" : 25000,
+            "gasoline" : false
+           }
+        ]
+    },
+    {
+        "car_name" : "Honda",
+        "country" : "Japan",
+        "establishment_year": 1960,
+        "model" : [
+           {
+            "model_name" : "Civic", 
+            "price" : 12000,
+            "gasoline" : true
+           },
+           {
+            "model_name" : "Jazz", 
+            "price" : 10000,
+            "gasoline" : false
+           }
+        ]
+    }
+]
